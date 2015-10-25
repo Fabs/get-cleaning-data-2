@@ -12,8 +12,11 @@ The Original data description here: https://d396qusza40orc.cloudfront.net/getdat
 
 ##Data
 The final dataset has 68 variables, containning meand and standard deviation of gyroscope and acelerometer for each activity. There in total 180 (observations) which represents pairs of subjects and activities..
+
 **ActivityID**: The id of the activitiy as in features.txt
+
 **ActivityName**: The activity name as in features.txt
+
 **SubjectID**: The id of the activitiy as in features.txt
 
 The other variables are the combination of sensors, modes, and axis [X,Y,Z] for acelerometer and gyroscope.
